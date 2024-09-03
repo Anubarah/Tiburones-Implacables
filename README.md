@@ -58,13 +58,13 @@ Bienvenidos al repositorio de nuestro equipo "Tiburones Implacables". Este será
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="readmeAssets/" alt="Foto de ..." width="150" style="margin-right: 20px;"/>
+    <img src="readmeAssets/Foto_Cristian_D.jpeg" alt="Foto de Cristian Cordoba" width="150" style="margin-right: 20px;"/>
     <div>
         <strong>Nombre</strong><br/>
-        <strong>Rol en la Industria:</strong> Nombre del rol<br/>
-        <strong>Ubicación:</strong> Ciudad<br/><br/>
+        <strong>Rol en la Industria:</strong> Game Programmer<br/>
+        <strong>Ubicación:</strong> Ibagué - Tolima<br/><br/>
         <strong>Perfil:</strong>  
-        <p>Perfil tipo HV</p>
+        <p>Estudiante de 7 semestre de Ingenieria Multimedia en UNAD e Ingenieria Forestal en UT. Con experiencia en creación de paginas web, aplicativos en Adobe Animate, procesamiento de imagenes satelitales a travez de Python y asercamiento en R (muy poco). Considero que tengo vacios en programación y quisiera llenarlos, a la vez de realizar aplicaciones tanto para pc como para moviles. No soy muy bueno en la creación de contenido visual (Personajes, Escenarios etc...) </p>
     </div>
 </div>
 
