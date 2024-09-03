@@ -18,13 +18,13 @@ Bienvenidos al repositorio de nuestro equipo "Tiburones Implacables". Este será
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="readmeAssets/" alt="Foto de ..." width="150" style="margin-right: 20px;"/>
+    <img src="readmeAssets/Jorge Sandoval.JPG" alt="Foto de ..." width="150" style="margin-right: 20px;"/>
     <div>
         <strong>Jorrge Enrique Sandoval Pacheco</strong><br/>
         <strong>Rol en la Industria:</strong> Game Artist<br/>
         <strong>Ubicación:</strong> Pitalito - Huila <br/><br/>
         <strong>Perfil:</strong>  
-        <p>Perfil tipo HV</p>
+        <p>Estudiante de ingeniería multimedia, con experiencia  en Diseño y creación de marca, diseño y desarrollo web, diseño gráfico de piezas publicitarias y campañas integrando Marketing Digital y envudos de venta.</p>
     </div>
 </div>
 
