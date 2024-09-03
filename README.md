@@ -33,11 +33,11 @@ Bienvenidos al repositorio de nuestro equipo "Tiburones Implacables". Este será
 <div style="display: flex; align-items: center;">
     <img src="readmeAssets/" alt="Foto de ..." width="150" style="margin-right: 20px;"/>
     <div>
-        <strong>Nombre</strong><br/>
-        <strong>Rol en la Industria:</strong> Nombre del rol<br/>
-        <strong>Ubicación:</strong> Ciudad<br/><br/>
+        <strong>Mario Alejandro Trujillo CAmacho</strong><br/>
+        <strong>Rol en la Industria:</strong> Level Designer<br/>
+        <strong>Ubicación:</strong> Guadalupe-Huila<br/><br/>
         <strong>Perfil:</strong>  
-        <p>Perfil tipo HV</p>
+        <p>Estudiante de ingenieria multimedia, septimo semestre, con experiencias en desarrollo de aplicaciones y diseño de las mismas, trabajo como socialmedier, y organizo sus campañas de marketing</p>
     </div>
 </div>
 
