@@ -68,19 +68,6 @@ Bienvenidos al repositorio de nuestro equipo "Tiburones Implacables". Este será
     </div>
 </div>
 
----
-
-<div style="display: flex; align-items: center;">
-    <img src="readmeAssets/" alt="Foto de ..." width="150" style="margin-right: 20px;"/>
-    <div>
-        <strong>Nombre</strong><br/>
-        <strong>Rol en la Industria:</strong> Nombre del rol<br/>
-        <strong>Ubicación:</strong> Ciudad<br/><br/>
-        <strong>Perfil:</strong>  
-        <p>Perfil tipo HV</p>
-    </div>
-</div>
-
 <div style="margin: 5rem auto 0 auto">
     <strong>Grupo:</strong> 213027_13 <br/>
     <strong>Año:</strong> 2024 <br/>
