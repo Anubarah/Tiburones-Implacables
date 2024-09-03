@@ -60,7 +60,7 @@ Bienvenidos al repositorio de nuestro equipo "Tiburones Implacables". Este será
 <div style="display: flex; align-items: center;">
     <img src="readmeAssets/Foto_Cristian_D.jpeg" alt="Foto de Cristian Cordoba" width="150" style="margin-right: 20px;"/>
     <div>
-        <strong>Nombre</strong><br/>
+        <strong>Cristian Daniel Cordoba M.</strong><br/>
         <strong>Rol en la Industria:</strong> Game Programmer<br/>
         <strong>Ubicación:</strong> Ibagué - Tolima<br/><br/>
         <strong>Perfil:</strong>  
