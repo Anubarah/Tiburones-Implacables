@@ -44,15 +44,16 @@ Bienvenidos al repositorio de nuestro equipo "Tiburones Implacables". Este será
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="readmeAssets/" alt="Foto de ..." width="150" style="margin-right: 20px;"/>
+    <img src="readmeAssets/foto_leo.jpeg" alt="Foto de Santiago Martínez" width="150" style="margin-right: 20px;"/>
     <div>
-        <strong>Nombre</strong><br/>
-        <strong>Rol en la Industria:</strong> Nombre del rol<br/>
-        <strong>Ubicación:</strong> Ciudad<br/><br/>
+ <strong>José Leonardo Bustos</strong><br/>
+        <strong>Rol en la Industria:</strong> Level Designer<br/>
+        <strong>Ubicación:</strong> Ibagué - Tolima<br/><br/>
         <strong>Perfil:</strong>  
-        <p>Perfil tipo HV</p>
+        <p>Estudiante de ingeniería multimedia, con experiencia en edición y animación de video, así como en el desarrollo de aplicaciones móviles utilizando Flutter. Poseo habilidades en la creación de contenido visual.</p>
     </div>
 </div>
+
 
 ---
 
