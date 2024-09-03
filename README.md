@@ -31,7 +31,7 @@ Bienvenidos al repositorio de nuestro equipo "Tiburones Implacables". Este será
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="readmeAssets/" alt="Foto de ..." width="150" style="margin-right: 20px;"/>
+    <img src="readmeAssets/Mario,JPG" alt="Foto de ..." width="150" style="margin-right: 20px;"/>
     <div>
         <strong>Mario Alejandro Trujillo CAmacho</strong><br/>
         <strong>Rol en la Industria:</strong> Level Designer<br/>
